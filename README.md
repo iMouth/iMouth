@@ -35,3 +35,4 @@ I am a senior CS Student at the University of Arizona. I am a self taught Full S
 ![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
