@@ -2,7 +2,7 @@
 
 I am a senior CS Student at the University of Arizona. I am a self taught Full Stack Developer.
 
-- 🔥 Looking for new opportunities
+- 🔥 Looking for new opportunities in Software Engineering
 
 - 👨‍💻 My projects are available right here on Github. Check them out below!
 
