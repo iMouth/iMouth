@@ -1,16 +1,10 @@
 ### Hi! I'm Kelvin 👋
 
-I am a senior CS Student at the University of Arizona. I am a self taught Full Stack Developer.
-
-- 🔥 Looking for new opportunities in Software Engineering
-
 - 👨‍💻 My projects are available right here on Github. Check them out below!
 
 - 💬 Ask me about **anything!**
 
 - 📫 Contact me **kelvin.8.kast@gmail.com**
-
-- ⚡ Fun fact:  **I was born in Kenya 🇰🇪 and raised in the United States 🇺🇸**
 
 ### Langauges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
